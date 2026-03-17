@@ -1,0 +1,6 @@
+data/
+__pychache__/
+*.pyc
+.ipynb_checkpoints/
+results/**/*.pth
+.env
